@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+rabbitmq:3.6.2-management registry.cn-beijing.aliyuncs.com/he-public/rabbitmq:3.6.2-management
