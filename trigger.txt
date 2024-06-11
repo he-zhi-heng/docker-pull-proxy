@@ -1,10 +1,3 @@
-rabbitmq:3.6.2-management registry.cn-beijing.aliyuncs.com/he-public/rabbitmq:3.6.2-management
-nacos/nacos-server:latest registry.cn-beijing.aliyuncs.com/he-public/nacos-server:latest
-seataio/seata-server:latest registry.cn-beijing.aliyuncs.com/he-public/seata-server:latest
-bladex/sentinel-dashboard:latest registry.cn-beijing.aliyuncs.com/he-public/sentinel-dashboard:latest
-redis:latest registry.cn-beijing.aliyuncs.com/he-public/redis:latest
-elasticsearch:7.11.1 registry.cn-beijing.aliyuncs.com/he-public/elasticsearch:7.11.1
-mobz/elasticsearch-head:5 registry.cn-beijing.aliyuncs.com/he-public/elasticsearch-head:5
-docker.io/kibana:7.11.1 registry.cn-beijing.aliyuncs.com/he-public/kibana:7.11.1
-logstash:7.11.1 registry.cn-beijing.aliyuncs.com/he-public/logstash:7.11.1
-minio/minio:latest registry.cn-beijing.aliyuncs.com/he-public/minio:latest
+grafana/loki:2.9.2 registry.cn-beijing.aliyuncs.com/he-public/loki:2.9.2
+grafana/promtail:2.9.2 registry.cn-beijing.aliyuncs.com/he-public/promtail:2.9.2
+grafana/grafana:latest registry.cn-beijing.aliyuncs.com/he-public/grafana:latest
