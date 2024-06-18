@@ -4,3 +4,4 @@ grafana/grafana:latest registry.cn-beijing.aliyuncs.com/he-public/grafana:latest
 mariadb:10.11 registry.cn-beijing.aliyuncs.com/he-public/mariadb:10.11
 memcached:1.6.18 registry.cn-beijing.aliyuncs.com/he-public/memcached:1.6.18
 seafileltd/seafile-mc:11.0-latest registry.cn-beijing.aliyuncs.com/he-public/seafile-mc:11.0-latest
+goharbor/prepare:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/prepare:v2.9.4
