@@ -1,7 +1,9 @@
-grafana/loki:2.9.2 registry.cn-beijing.aliyuncs.com/he-public/loki:2.9.2
-grafana/promtail:2.9.2 registry.cn-beijing.aliyuncs.com/he-public/promtail:2.9.2
-grafana/grafana:latest registry.cn-beijing.aliyuncs.com/he-public/grafana:latest
-mariadb:10.11 registry.cn-beijing.aliyuncs.com/he-public/mariadb:10.11
-memcached:1.6.18 registry.cn-beijing.aliyuncs.com/he-public/memcached:1.6.18
-seafileltd/seafile-mc:11.0-latest registry.cn-beijing.aliyuncs.com/he-public/seafile-mc:11.0-latest
-goharbor/prepare:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/prepare:v2.9.4
+goharbor/harbor-log:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-log:v2.9.4
+goharbor/registry-photon:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/registry-photon:v2.9.4
+goharbor/harbor-registryctl:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-registryctl:v2.9.4
+goharbor/harbor-db:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-db:v2.9.4
+goharbor/harbor-core:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-core:v2.9.4
+goharbor/harbor-portal:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-portal:v2.9.4
+goharbor/harbor-jobservice:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-jobservice:v2.9.4
+goharbor/redis-photon:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/redis-photon:v2.9.4
+goharbor/nginx-photon:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/nginx-photon:v2.9.4
