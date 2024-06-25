@@ -1,2 +1,2 @@
-goharbor/harbor-log:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-log:v2.9.4
 ubuntu:latest registry.cn-beijing.aliyuncs.com/he-public/harbor-log:latest
+debian:jessie registry.cn-beijing.aliyuncs.com/he-public/debian:jessie
