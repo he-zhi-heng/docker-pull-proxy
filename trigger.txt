@@ -1,1 +1,1 @@
-registry.k8s.io/coredns/coredns:v1.11.1 registry.cn-beijing.aliyuncs.com/he-public/coredns:v1.11.1
+eipwork/kuboard:v3 registry.cn-beijing.aliyuncs.com/he-public/kuboard:v3
