@@ -1,1 +1,1 @@
-dockersamples/visualizer:latest registry.cn-beijing.aliyuncs.com/he-public/visualizer:latest
+rancher/rancher:latest registry.cn-beijing.aliyuncs.com/he-public/rancher:latest
