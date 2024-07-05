@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.6.14 registry.cn-beijing.aliyuncs.com/he-public/rancher-agent:v2.6.14
+harbor-log:v2.9.4 registry.cn-beijing.aliyuncs.com/he-public/harbor-log:v2.9.4
