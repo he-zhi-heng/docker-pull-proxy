@@ -1,1 +1,1 @@
-rancher/rancher:latest registry.cn-beijing.aliyuncs.com/he-public/rancher:latest
+rancher/rancher:v2.6.14 registry.cn-beijing.aliyuncs.com/he-public/rancher:v2.6.14
