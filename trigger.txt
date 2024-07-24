@@ -1,3 +1,2 @@
-registry registry.cn-beijing.aliyuncs.com/he-public/registry
-joxit/docker-registry-ui:static registry.cn-beijing.aliyuncs.com/he-public/docker-registry-ui:static
-
+gitea/gitea:1.15.7 registry.cn-beijing.aliyuncs.com/he-public/gitea:1.15.7
+mysql:8 registry.cn-beijing.aliyuncs.com/he-public/mysql
