@@ -1,2 +1,1 @@
-gitea/gitea:1.15.7 registry.cn-beijing.aliyuncs.com/he-public/gitea:1.15.7
-mysql:8 registry.cn-beijing.aliyuncs.com/he-public/mysql
+jpomdocker/jpom registry.cn-beijing.aliyuncs.com/he-public/jpom
