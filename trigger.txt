@@ -1,2 +1,1 @@
-colynn/atomci-frontend:latest registry.cn-beijing.aliyuncs.com/he-public/atomci-frontend:latest
-colynn/atomci:latest registry.cn-beijing.aliyuncs.com/he-public/atomci:latest
+blueking/bk-ci:latest registry.cn-beijing.aliyuncs.com/he-public/bk-ci:latest
