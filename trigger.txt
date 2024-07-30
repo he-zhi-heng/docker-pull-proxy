@@ -1,1 +1,1 @@
-blueking/bk-ci:latest registry.cn-beijing.aliyuncs.com/he-public/bk-ci:latest
+openc3/allinone:latest registry.cn-beijing.aliyuncs.com/he-public/allinone:latest
