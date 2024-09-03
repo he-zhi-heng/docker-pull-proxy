@@ -1,1 +1,1 @@
-nginx:latest registry.cn-beijing.aliyuncs.com/he-public/nginx:latest
+nacos/nacos-server:2.0.3 registry.cn-beijing.aliyuncs.com/he-public/nacos-server:2.0.3
