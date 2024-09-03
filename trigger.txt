@@ -1,1 +1,1 @@
-jenkinsci/blueocean:latest registry.cn-beijing.aliyuncs.com/he-public/blueocean:latest
+nginx:latest registry.cn-beijing.aliyuncs.com/he-public/nginx:latest
