@@ -1,2 +1,1 @@
-mingrammer/flog:latest registry.cn-beijing.aliyuncs.com/he-public/flog:latest
-grafana/alloy:latest registry.cn-beijing.aliyuncs.com/he-public/alloy:latest
+ghcr.io/home-assistant/home-assistant:stable registry.cn-beijing.aliyuncs.com/he-public/home-assistant:stable
