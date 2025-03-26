@@ -1,1 +1,2 @@
 apache/rocketmq:5.1.0 registry.cn-beijing.aliyuncs.com/he-public/rocketmq:5.1.0
+apacherocketmq/rocketmq-dashboard:latest registry.cn-beijing.aliyuncs.com/he-public/rocketmq-dashboard:latest
