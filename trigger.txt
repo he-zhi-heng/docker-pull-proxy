@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable registry.cn-beijing.aliyuncs.com/he-public/home-assistant:stable
+apache/rocketmq:5.1.0 registry.cn-beijing.aliyuncs.com/he-public/rocketmq:5.1.0
