@@ -1,2 +1,2 @@
 ghcr.io/wekan/wekan:latest registry.cn-beijing.aliyuncs.com/he-public/wekan:latest
-mongo:6 registry.cn-beijing.aliyuncs.com/he-public/mongo:6
+node:18-alpine registry.cn-beijing.aliyuncs.com/he-public/node:18-alpine
