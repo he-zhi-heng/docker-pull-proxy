@@ -1,2 +1,2 @@
 ghcr.io/wekan/wekan:latest registry.cn-beijing.aliyuncs.com/he-public/wekan:latest
-mhart/alpine-node registry.cn-beijing.aliyuncs.com/he-public/alpine-node
+ubuntu:jammy registry.cn-beijing.aliyuncs.com/he-public/ubuntu:jammy
