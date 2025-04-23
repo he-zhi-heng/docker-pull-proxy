@@ -1,2 +1,2 @@
 ghcr.io/wekan/wekan:latest registry.cn-beijing.aliyuncs.com/he-public/wekan:latest
-ubuntu:jammy registry.cn-beijing.aliyuncs.com/he-public/ubuntu:jammy
+doramart/doracms:2.1.2 registry.cn-beijing.aliyuncs.com/he-public/doracms:2.1.2
