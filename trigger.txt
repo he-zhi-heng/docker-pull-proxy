@@ -1,2 +1,5 @@
-ghcr.io/wekan/wekan:latest registry.cn-beijing.aliyuncs.com/he-public/wekan:latest
-doramart/doracms:2.1.2 registry.cn-beijing.aliyuncs.com/he-public/doracms:2.1.2
+n8nio/n8n registry.cn-beijing.aliyuncs.com/he-public/n8n:latest
+apolloconfig/apollo-configservice:2.1.0 registry.cn-beijing.aliyuncs.com/he-public/apollo-configservice:2.1.0
+apolloconfig/apollo-adminservice:2.1.0 registry.cn-beijing.aliyuncs.com/he-public/apollo-adminservice:2.1.0
+apolloconfig/apollo-portal:2.1.0 registry.cn-beijing.aliyuncs.com/he-public/apollo-portal:2.1.0
+mysql:5.7 registry.cn-beijing.aliyuncs.com/he-public/mysql:5.7
