@@ -1,1 +1,1 @@
-springcloud/eureka registry.cn-beijing.aliyuncs.com/he-public/eureka:latest
+springcloud/eureka:latest registry.cn-beijing.aliyuncs.com/he-public/eureka:latest
