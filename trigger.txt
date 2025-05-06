@@ -1,1 +1,3 @@
-springcloud/eureka:latest registry.cn-beijing.aliyuncs.com/he-public/eureka:latest
+nobodyiam/apollo-quick-start registry.cn-beijing.aliyuncs.com/he-public/apollo-quick-start:latest
+mysql:8.0 registry.cn-beijing.aliyuncs.com/he-public/mysql:8.0
+alpine:latest registry.cn-beijing.aliyuncs.com/he-public/alpine:latest
