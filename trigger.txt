@@ -1,1 +1,1 @@
-openjdk:17 registry.cn-beijing.aliyuncs.com/he-public/openjdk:17
+tomcat:9.0 registry.cn-beijing.aliyuncs.com/he-public/tomcat:9.0
