@@ -1,1 +1,1 @@
-tomcat:10.1.24-jdk17 registry.cn-beijing.aliyuncs.com/he-public/tomcat:10.1.24-jdk17
+docker.n8n.io/n8nio/n8n registry.cn-beijing.aliyuncs.com/he-public/n8nio
