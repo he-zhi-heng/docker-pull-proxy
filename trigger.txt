@@ -1,1 +1,1 @@
-sscms/core:latest registry.cn-beijing.aliyuncs.com/he-public/sscms:latest
+linshellfeng/datax_web:3.0.1 registry.cn-beijing.aliyuncs.com/he-public/datax_web:3.0.1
