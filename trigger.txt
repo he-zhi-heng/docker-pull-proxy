@@ -1,1 +1,1 @@
-whyour/qinglong:latest registry.cn-beijing.aliyuncs.com/he-public/qinglong:latest
+ghcr.io/umami-software/umami:postgresql-latest registry.cn-beijing.aliyuncs.com/he-public/qumami:postgresql-latest
