@@ -1,1 +1,1 @@
-hametan/datax-web:2.1.2 registry.cn-beijing.aliyuncs.com/he-public/datax_web:2.1.2
+whyour/qinglong:latest registry.cn-beijing.aliyuncs.com/he-public/qinglong:latest
