@@ -1,1 +1,1 @@
-jiyecafe/wechat-devtools-build:v1.0.4 registry.cn-beijing.aliyuncs.com/he-public/wechat-devtools-build:v1.0.4
+mindsdb/mindsdb registry.cn-beijing.aliyuncs.com/he-public/mindsdb
