@@ -1,1 +1,1 @@
-bitwardenrs/server:latest registry.cn-beijing.aliyuncs.com/he-public/bitwardenrs-server:latest
+linkace/linkace:latest registry.cn-beijing.aliyuncs.com/he-public/linkace:latest
