@@ -1,1 +1,1 @@
-linkace/linkace:latest registry.cn-beijing.aliyuncs.com/he-public/linkace:latest
+ai/chat-ollama:latest registry.cn-beijing.aliyuncs.com/he-public/chat-ollama:latest
