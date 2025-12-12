@@ -1,1 +1,1 @@
-ollama/ollama:latest registry.cn-beijing.aliyuncs.com/he-public/ollama:latest
+centos:7 registry.cn-beijing.aliyuncs.com/he-public/centos:7
