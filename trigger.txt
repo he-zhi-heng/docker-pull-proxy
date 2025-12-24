@@ -1,1 +1,3 @@
-centos:7 registry.cn-beijing.aliyuncs.com/he-public/centos:7
+hoppscotch/hoppscotch-frontend registry.cn-beijing.aliyuncs.com/he-public/hoppscotch-frontend
+hoppscotch/hoppscotch-backend registry.cn-beijing.aliyuncs.com/he-public/hoppscotch-backend
+hoppscotch/hoppscotch-admin registry.cn-beijing.aliyuncs.com/he-public/hoppscotch-admin
