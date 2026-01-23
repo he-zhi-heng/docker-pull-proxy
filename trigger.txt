@@ -1,1 +1,1 @@
-nocodb/nocodb:latest registry.cn-beijing.aliyuncs.com/he-public/nocodb:latest
+leantime/leantime:latest registry.cn-beijing.aliyuncs.com/he-public/leantime:latest
