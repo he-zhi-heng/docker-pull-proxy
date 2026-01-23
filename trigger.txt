@@ -1,1 +1,1 @@
-neosmemo/memos:stable registry.cn-beijing.aliyuncs.com/he-public/memos:stable
+metabase/metabase:latest registry.cn-beijing.aliyuncs.com/he-public/metabase:latest
