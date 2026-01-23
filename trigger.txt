@@ -1,1 +1,1 @@
-leantime/leantime:latest registry.cn-beijing.aliyuncs.com/he-public/leantime:latest
+filebrowser/filebrowser:latest registry.cn-beijing.aliyuncs.com/he-public/filebrowser:latest
