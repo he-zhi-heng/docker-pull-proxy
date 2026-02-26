@@ -1,1 +1,1 @@
-docker.io/library/alpine:3.17 registry.cn-beijing.aliyuncs.com/he-public/alpine:3.17
+xubiaolin/zerotier-planet:latest registry.cn-beijing.aliyuncs.com/he-public/zerotier-planet:latest
