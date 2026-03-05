@@ -1,1 +1,2 @@
-xubiaolin/zerotier-planet:latest registry.cn-beijing.aliyuncs.com/he-public/zerotier-planet:latest
+node:22-bookworm registry.cn-beijing.aliyuncs.com/he-public/node:22-bookworm
+
