@@ -1,2 +1,2 @@
-hectorqin/reader:3.2.14 registry.cn-beijing.aliyuncs.com/he-public/reader:3.2.14
+nacos/nacos-server:latest registry.cn-beijing.aliyuncs.com/he-public/nacos-server:latest
 
