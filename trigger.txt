@@ -1,1 +1,1 @@
-vaultwarden/server:latest registry.cn-beijing.aliyuncs.com/he-public/vaultwarden-server:latest
+vaultwarden/server:testing-alpine registry.cn-beijing.aliyuncs.com/he-public/vaultwarden-server:testing-alpine
