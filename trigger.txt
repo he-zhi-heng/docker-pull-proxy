@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.12.5 registry.cn-beijing.aliyuncs.com/he-public/qdrant:v1.12.5
+vaultwarden/server:latest registry.cn-beijing.aliyuncs.com/he-public/vaultwarden-server:latest
