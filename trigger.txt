@@ -1,1 +1,1 @@
-vaultwarden/server:testing-alpine registry.cn-beijing.aliyuncs.com/he-public/vaultwarden-server:testing-alpine
+python:3.10-slim registry.cn-beijing.aliyuncs.com/he-public/python:3.10-slim
