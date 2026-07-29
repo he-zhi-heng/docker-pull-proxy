@@ -1,1 +1,1 @@
-postgres:16 registry.cn-beijing.aliyuncs.com/he-public/postgres:16
+postgis/postgis:16-3.4 registry.cn-beijing.aliyuncs.com/he-public/postgis:16-3.4
