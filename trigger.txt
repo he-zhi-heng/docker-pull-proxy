@@ -1,1 +1,1 @@
-python:3.10-slim registry.cn-beijing.aliyuncs.com/he-public/python:3.10-slim
+postgres:16 registry.cn-beijing.aliyuncs.com/he-public/postgres:16
