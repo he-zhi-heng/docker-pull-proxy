@@ -1,1 +1,1 @@
-postgis/postgis:16-3.4 registry.cn-beijing.aliyuncs.com/he-public/postgis:16-3.4
+nacos/nacos-server:v2.2.3 registry.cn-beijing.aliyuncs.com/he-public/nacos-server:v2.2.3
