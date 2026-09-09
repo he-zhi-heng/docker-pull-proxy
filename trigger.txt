@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.2.3 registry.cn-beijing.aliyuncs.com/he-public/nacos-server:v2.2.3
+apache/kafka:3.9.2 registry.cn-beijing.aliyuncs.com/he-public//kafka:3.9.2
