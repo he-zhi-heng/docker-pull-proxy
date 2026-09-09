@@ -1,1 +1,1 @@
-apache/kafka:3.9.2 registry.cn-beijing.aliyuncs.com/he-public/kafka:3.9.2
+elasticsearch:8.19.21 registry.cn-beijing.aliyuncs.com/he-public/elasticsearch:8.19.21
