@@ -1,1 +1,1 @@
-elasticsearch:8.19.21 registry.cn-beijing.aliyuncs.com/he-public/elasticsearch:8.19.21
+openjdk:21-ea-jdk registry.cn-beijing.aliyuncs.com/he-public/openjdk:21-ea-jdk
